@@ -8,13 +8,12 @@ $ npm install
 ## Installation Frontend
 
 ```bash
-$ npm client-install
+$ npm run client-install
 ```
 
 ## Running the app
 
 ```bash
-
 # watch mode
 $ npm run dev
 
