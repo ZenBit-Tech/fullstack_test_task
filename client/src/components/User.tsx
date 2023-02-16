@@ -6,8 +6,7 @@ interface UserProps {
 }
 
 export function User(props: UserProps) {
-  console.log(props);
-  
+
   return(
     <div
       className='border item-center mb-2 user-cart'
